@@ -3,7 +3,7 @@ import axios from 'axios';
 import { Link,useParams } from 'react-router-dom';
 import Header from '../components/header';
 import ReactQuill from 'react-quill';
-import 'react-quill/dist/quill.snow.css'; // Import the styles
+//import 'react-quill/dist/quill.snow.css'; // Import the styles
 import '../styles/course-overview-page.css';
 import previewImage from '../styles/hero1.jpg';
 import apiUrl from '../components/api-url';
